@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Cisco DevNet DevNet Express Security Track Code
 
 This repository contains the sample code to go along with [Cisco DevNet Learning Labs](https://developer.cisco.com/learning) covering security topics. During the setup steps of the labs, you'll be asked to clone this repository down to your workstation to get started.
@@ -68,3 +69,6 @@ These learning modules are for public consumption, so you must ensure that you h
 * If you're interested in creating a new Cisco DevNet Learning Lab, please contact a DevNet administrator for guidance.
 # devnet_express
 # devnet_express
+=======
+# devnet_express
+>>>>>>> 32a2d573973a51eeb22e38baf44c5b2f8267cd5e
